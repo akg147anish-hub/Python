@@ -22,7 +22,7 @@ This module covers the fundamental concepts of Python that every beginner should
 
 | No. | Program | Status |
 |----|---------|--------|
-| 1 | Hello World | ⏳ |
+| 1 | Hello World | 🟢 |
 | 2 | Variables | ⏳ |
 | 3 | Data Types | ⏳ |
 | 4 | Type Casting | ⏳ |
