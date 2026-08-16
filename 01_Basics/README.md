@@ -24,7 +24,7 @@ This module covers the fundamental concepts of Python that every beginner should
 |----|---------|--------|
 | 1 | Hello World | 🟢 |
 | 2 | Variables | 🟢 |
-| 3 | Data Types | ⏳ |
+| 3 | Data Types | 🟢 |
 | 4 | Type Casting | ⏳ |
 | 5 | Operators | ⏳ |
 | 6 | Input & Output | ⏳ |
