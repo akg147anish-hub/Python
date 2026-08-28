@@ -1,8 +1,6 @@
 """
 Topic      : Assignment Operators
-Module     : Python Basics - Operators
 Description: Demonstrates assignment and compound assignment operators.
-Author     : Anish Kumar Gupta
 """
 
 number = 10
