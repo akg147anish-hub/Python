@@ -1,6 +1,6 @@
 """
 Topic      : Assignment Operators
-Description: Demonstrates assignment and compound assignment operators.
+Description: Demonstrates assignment and compound assignment operators
 """
 
 number = 10
